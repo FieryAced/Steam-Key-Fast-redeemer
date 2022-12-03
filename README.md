@@ -7,3 +7,9 @@ Instructions:
 2. It requires the file path (or name if file is already in same folder as program) as the first argument
 3. This program then will find every key in the file and open a window that has the key pasted into the redemption code box
 4. Press activate and close the tab/window.
+
+Notes:
+
+The program will write a list of Keys that were opened (and presumably redeemed) to the folder it resides in.
+
+Please use this software responsibly
